@@ -7,6 +7,7 @@ namespace TheRightCollection.ConsoleApp.People;
 /// <param name="Age">The age of the person.</param>
 public record Person(string Name, int Age)
 {
+    /// <inheritdoc/>
     public override string ToString()
         => $"{Name}, {Age} years old";
 }

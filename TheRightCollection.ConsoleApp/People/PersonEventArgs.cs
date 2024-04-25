@@ -7,5 +7,8 @@ namespace TheRightCollection.ConsoleApp.People;
 public class PersonEventArgs(Person person)
     : EventArgs
 {
+    /// <summary>
+    /// Gets the person.
+    /// </summary>
     public Person Person { get; } = person;
 }
