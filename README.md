@@ -69,6 +69,14 @@ To run this application, compile the code using Visual Studio or the .NET CLI, a
 
 Contributions are welcome. Please feel free to fork the repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
+<!-- portfolio-techstack:start -->
+
+## Tech Stack
+
+- **.NET 10**
+
+<!-- portfolio-techstack:end -->
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
