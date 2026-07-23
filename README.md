@@ -16,6 +16,22 @@
 [![Last commit](https://img.shields.io/github/last-commit/phmatray/TheRightCollection)](https://github.com/phmatray/TheRightCollection/commits)
 <!-- portfolio-badges:end -->
 
+<!-- portfolio-toc:start -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Running the Application](#running-the-application)
+- [Roadmap](#roadmap)
+- [Contributions](#contributions)
+- [Tech Stack](#tech-stack)
+- [License](#license)
+
+<!-- portfolio-toc:end -->
+
+
 
 ## Overview
 This project demonstrates how to encapsulate a collection of people in a custom collection class, `PersonCollection`, providing a more meaningful and controlled interface than built-in collection types in .NET. This class showcases best practices in object-oriented design, including encapsulation, event handling, and the use of LINQ for data manipulation.
