@@ -2,6 +2,21 @@
 
 # The Right Collection
 
+<!-- portfolio-badges:start -->
+<!-- Identity -->
+[![phmatray - TheRightCollection](https://img.shields.io/static/v1?label=phmatray&message=TheRightCollection&color=blue&logo=github)](https://github.com/phmatray/TheRightCollection)
+![Top language](https://img.shields.io/github/languages/top/phmatray/TheRightCollection)
+[![Stars](https://img.shields.io/github/stars/phmatray/TheRightCollection?style=social)](https://github.com/phmatray/TheRightCollection/stargazers)
+[![Forks](https://img.shields.io/github/forks/phmatray/TheRightCollection?style=social)](https://github.com/phmatray/TheRightCollection/network/members)
+[![License](https://img.shields.io/github/license/phmatray/TheRightCollection)](https://github.com/phmatray/TheRightCollection/blob/HEAD/LICENSE)
+
+<!-- Activity -->
+[![Issues](https://img.shields.io/github/issues/phmatray/TheRightCollection)](https://github.com/phmatray/TheRightCollection/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/phmatray/TheRightCollection)](https://github.com/phmatray/TheRightCollection/pulls)
+[![Last commit](https://img.shields.io/github/last-commit/phmatray/TheRightCollection)](https://github.com/phmatray/TheRightCollection/commits)
+<!-- portfolio-badges:end -->
+
+
 ## Overview
 This project demonstrates how to encapsulate a collection of people in a custom collection class, `PersonCollection`, providing a more meaningful and controlled interface than built-in collection types in .NET. This class showcases best practices in object-oriented design, including encapsulation, event handling, and the use of LINQ for data manipulation.
 
