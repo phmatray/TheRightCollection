@@ -31,6 +31,27 @@
 
 <!-- portfolio-toc:end -->
 
+<!-- portfolio-getstarted:start -->
+
+## Getting Started
+
+### Prerequisites
+
+- [.NET SDK](https://dotnet.microsoft.com/download)
+
+### Run
+
+```bash
+git clone https://github.com/phmatray/TheRightCollection.git
+cd TheRightCollection
+dotnet restore
+dotnet build
+dotnet run --project TheRightCollection.ConsoleApp/TheRightCollection.ConsoleApp.csproj
+```
+
+<!-- portfolio-getstarted:end -->
+
+
 
 
 ## Overview
