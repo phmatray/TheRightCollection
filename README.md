@@ -1,3 +1,5 @@
+![TheRightCollection banner](.github/banner.png)
+
 # The Right Collection
 
 ## Overview
