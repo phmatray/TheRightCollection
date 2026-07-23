@@ -65,6 +65,16 @@ people.PersonRemoved += (sender, e) => Console.WriteLine($"Person removed: {e.Pe
 
 To run this application, compile the code using Visual Studio or the .NET CLI, and execute the built executable. The program will demonstrate the capabilities of the `PersonCollection` class through various operations displayed in the console output.
 
+## Roadmap
+
+- [ ] Add a unit test project (xUnit) covering `PersonCollection`'s sorting, filtering, and event behavior
+- [ ] Generalize `PersonCollection` into a reusable generic `EntityCollection<T>` pattern
+- [ ] Add more query/statistics helpers (e.g. median age, group-by-age-range)
+- [ ] Add JSON import/export for `PersonCollection` contents
+- [ ] Package the collection as a standalone NuGet library separate from the console demo
+
+See the [open issues](https://github.com/phmatray/TheRightCollection/issues) for more.
+
 ## Contributions
 
 Contributions are welcome. Please feel free to fork the repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
